@@ -6,48 +6,49 @@
 Terinspirasi Dari Theme Song Asian Games 2018
 ## Lirik
 
-Setiap saat setiap waktu
-Curut kan setia membantu
-Ini saat yang kutunggu
-Hari ini ku buktikan
 
-Ku yakin curut kan menang
-Hari ini kan dikenang
-Semua doa kupanjatkan
-potensi kan ku tunjukan
+> Setiap saat setiap waktu
+> Curut kan setia membantu
+> Ini saat yang kutunggu
+> Hari ini ku buktikan
 
-Terus fokus untuk HIKING, Itu Untuk LDKS
-Tetap fokus kita kejar meraih poin
-Terus fokus untuk HIKING, Itu Untuk LDKS
-Tetap fokus kita kejar kita kan menang
+> Ku yakin curut kan menang
+> Hari ini kan dikenang
+> Semua doa kupanjatkan
+> potensi kan ku tunjukan
 
-Yo yo ayo… yo ayo Yo yo ayo… yo ayo
-Yo yo ayo… yo ayo Yo yo.. ooo…ooo
-Yo yo ayo… yo ayo Yo yo ayo… yo ayo
-Yo yo ayo.. kita datang kita raih kita menang
+> Terus fokus untuk HIKING, Itu Untuk LDKS
+> Tetap fokus kita kejar meraih poin
+> Terus fokus untuk HIKING, Itu Untuk LDKS
+> Tetap fokus kita kejar kita kan menang
 
-Kalau menang berprestasi
-Kalau kalah jangan Bunuh Diri
-Kalah menang solidaritas
-Kita galang sportifitas
+> Yo yo ayo… yo ayo Yo yo ayo… yo ayo
+> Yo yo ayo… yo ayo Yo yo.. ooo…ooo
+> Yo yo ayo… yo ayo Yo yo ayo… yo ayo
+> Yo yo ayo.. kita datang kita raih kita menang
 
-Kalau menang Allhamdulillah
-Kalau kalah Naudzubillah
-Kalah menang solidaritas
-Kita galang sportifitas
+> Kalau menang berprestasi
+> Kalau kalah jangan Bunuh Diri
+> Kalah menang solidaritas
+> Kita galang sportifitas
 
-Terus fokus untuk HIKING, itu Untuk LDKS
-Tetap fokus kita kejar dan raih poin
+> Kalau menang Allhamdulillah
+> Kalau kalah Naudzubillah
+> Kalah menang solidaritas
+> Kita galang sportifitas
 
-Yo yo ayo… yo ayo Yo yo ayo… yo ayo
-Yo yo ayo… yo ayo Yo yo.. ooo…ooo
+> Terus fokus untuk HIKING, itu Untuk LDKS
+> Tetap fokus kita kejar dan raih poin
+
+> Yo yo ayo… yo ayo Yo yo ayo… yo ayo
+> Yo yo ayo… yo ayo Yo yo.. ooo…ooo
  
-Yo yo ayo.. kita datang kita raih kita menang
+> Yo yo ayo.. kita datang kita raih kita menang
 
-Terus fokus untuk HIKING, Itu Untuk LDKS
-Tetap fokus kita kejar meraih poin
-Terus fokus untuk HIKING, Itu Untuk LDKS
-Tetap fokus kita kejar kita kan menang
+> Terus fokus untuk HIKING, Itu Untuk LDKS
+> Tetap fokus kita kejar meraih poin
+> Terus fokus untuk HIKING, Itu Untuk LDKS
+> Tetap fokus kita kejar kita kan menang
 
 ## License
 
