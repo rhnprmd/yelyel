@@ -7,7 +7,7 @@ Terinspirasi Dari Theme Song Asian Games 2018
 ## Lirik
 
 
-> Setiap saat setiap waktu
+> Setiap saat setiap waktu <br>
 > Curut kan setia membantu
 > Ini saat yang kutunggu
 > Hari ini ku buktikan
