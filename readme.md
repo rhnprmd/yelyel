@@ -8,48 +8,48 @@ Terinspirasi Dari Theme Song Asian Games 2018
 
 
 > Setiap saat setiap waktu <br>
-> Curut kan setia membantu
-> Ini saat yang kutunggu
-> Hari ini ku buktikan
-
-> Ku yakin curut kan menang
-> Hari ini kan dikenang
-> Semua doa kupanjatkan
-> potensi kan ku tunjukan
-
-> Terus fokus untuk HIKING, Itu Untuk LDKS
-> Tetap fokus kita kejar meraih poin
-> Terus fokus untuk HIKING, Itu Untuk LDKS
-> Tetap fokus kita kejar kita kan menang
-
-> Yo yo ayo… yo ayo Yo yo ayo… yo ayo
-> Yo yo ayo… yo ayo Yo yo.. ooo…ooo
-> Yo yo ayo… yo ayo Yo yo ayo… yo ayo
-> Yo yo ayo.. kita datang kita raih kita menang
-
-> Kalau menang berprestasi
-> Kalau kalah jangan Bunuh Diri
-> Kalah menang solidaritas
-> Kita galang sportifitas
-
-> Kalau menang Allhamdulillah
-> Kalau kalah Naudzubillah
-> Kalah menang solidaritas
-> Kita galang sportifitas
-
-> Terus fokus untuk HIKING, itu Untuk LDKS
-> Tetap fokus kita kejar dan raih poin
-
-> Yo yo ayo… yo ayo Yo yo ayo… yo ayo
-> Yo yo ayo… yo ayo Yo yo.. ooo…ooo
- 
-> Yo yo ayo.. kita datang kita raih kita menang
-
-> Terus fokus untuk HIKING, Itu Untuk LDKS
-> Tetap fokus kita kejar meraih poin
-> Terus fokus untuk HIKING, Itu Untuk LDKS
-> Tetap fokus kita kejar kita kan menang
-
+> Curut kan setia membantu<br>
+> Ini saat yang kutunggu<br>
+> Hari ini ku buktikan<br>
+<br>
+> Ku yakin curut kan menang<br>
+> Hari ini kan dikenang<br>
+> Semua doa kupanjatkan<br>
+> potensi kan ku tunjukan<br>
+<br>
+> Terus fokus untuk HIKING, Itu Untuk LDKS<br>
+> Tetap fokus kita kejar meraih poin<br>
+> Terus fokus untuk HIKING, Itu Untuk LDKS<br>
+> Tetap fokus kita kejar kita kan menang<br>
+<br>
+> Yo yo ayo… yo ayo Yo yo ayo… yo ayo<br>
+> Yo yo ayo… yo ayo Yo yo.. ooo…ooo<br>
+> Yo yo ayo… yo ayo Yo yo ayo… yo ayo<br>
+> Yo yo ayo.. kita datang kita raih kita menang<br>
+<br>
+> Kalau menang berprestasi<br>
+> Kalau kalah jangan Bunuh Diri<br>
+> Kalah menang solidaritas<br>
+> Kita galang sportifitas<br>
+<br>
+> Kalau menang Allhamdulillah<br>
+> Kalau kalah Naudzubillah<br>
+> Kalah menang solidaritas<br>
+> Kita galang sportifitas<br>
+<br>
+> Terus fokus untuk HIKING, itu Untuk LDKS<br>
+> Tetap fokus kita kejar dan raih poin<br>
+<br>
+> Yo yo ayo… yo ayo Yo yo ayo… yo ayo<br>
+> Yo yo ayo… yo ayo Yo yo.. ooo…ooo<br>
+ <br>
+> Yo yo ayo.. kita datang kita raih kita menang<br>
+<br>
+> Terus fokus untuk HIKING, Itu Untuk LDKS<br>
+> Tetap fokus kita kejar meraih poin<br>
+> Terus fokus untuk HIKING, Itu Untuk LDKS<br>
+> Tetap fokus kita kejar kita kan menang<br>
+<br>
 ## License
 
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
