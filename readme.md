@@ -1,29 +1,29 @@
 <img src="icon.png" align="right" />
 
 # Lirik Yel Yel [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/rhnprmd/yelyel)
-> Lirik Yel Yel Kelompok 5 (curut)
+> Lirik Yel Yel Kelompok 5 (Satu)
 
 Terinspirasi Dari Theme Song Asian Games 2018
 ## Lirik
 
 
 > Setiap saat setiap waktu <br>
-> Curut kan setia membantu<br>
+> Satu kan setia membantu<br>
 > Ini saat yang kutunggu<br>
 > Hari ini ku buktikan<br>
 
 <br>
 
-> Ku yakin curut kan menang <br>
+> Ku yakin Satu kan menang <br>
 > Hari ini kan dikenang<br>
 > Semua doa kupanjatkan<br>
 > potensi kan ku tunjukan<br>
 
 <br>
 
-> Terus fokus untuk HIKING, Itu Untuk LDKS <br>
+> Terus fokus Berkampanye, Itu Untuk Nomor satu <br>
 > Tetap fokus kita kejar meraih poin<br>
-> Terus fokus untuk HIKING, Itu Untuk LDKS<br>
+> Terus fokus Berkampanye, Itu Untuk Nomor satu<br>
 > Tetap fokus kita kejar kita kan menang<br>
 
 <br>
@@ -49,7 +49,7 @@ Terinspirasi Dari Theme Song Asian Games 2018
 
 <br>
 
-> Terus fokus untuk HIKING, itu Untuk LDKS <br>
+> Terus fokus Berkampanye, itu Untuk Nomor satu <br>
 > Tetap fokus kita kejar dan raih poin<br>
 
 <br>
@@ -63,9 +63,9 @@ Terinspirasi Dari Theme Song Asian Games 2018
 
 <br>
 
-> Terus fokus untuk HIKING, Itu Untuk LDKS <br>
+> Terus fokus Berkampanye, Itu Untuk Nomor satu <br>
 > Tetap fokus kita kejar meraih poin<br>
-> Terus fokus untuk HIKING, Itu Untuk LDKS<br>
+> Terus fokus Berkampanye, Itu Untuk Nomor satu<br>
 > Tetap fokus kita kejar kita kan menang<br>
 
 <br>
